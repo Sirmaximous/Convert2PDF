@@ -2,9 +2,7 @@
 
 Script to convert directory of tif files to PDF files.
 
-## Installation
-
-libraries needed to run script
+##libraries needed to run script
 
 img2pdf, Pillow, tqdm
 
