@@ -22,7 +22,7 @@ $ py -m pip freeze -r .\requirements.txt
 
 ### Install dependencies (Linux/Unix)
 
-$ python -m pip freeze
+$ python -m pip freeze requirements.txt
 
 ### Run the app
 
